@@ -58,6 +58,13 @@ font-size: 0.50em;
 ul {
     clear:both;
 }
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
 
 
 html { font-size: 62.5%; }
