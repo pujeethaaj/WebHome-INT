@@ -61,8 +61,7 @@ ul {
 
 #header {
   background: rgba(255, 255, 255, .5);
-  padding: 1%;
-  overflow: hidden;
+  width:100%;
   height: 55px;
 }
 #header img {
@@ -70,18 +69,21 @@ ul {
   box-shadow: none;
 }
 #header ul {
-  list-style: none;
-  float: left;
-  padding-left: 10px;
+  list-style: none; 
   margin-top: 15px;
+  text-align: right;
+    margin-top: -35px;
 }
 #header ul li {
-  float: left;
-  margin-left: 10px;
+  display: inline-block;
+    padding-left: 10px;
   font-size: 20px;
   color: #dd4b39;
 }
 
+#header ul li:last-child{
+    padding-right: 10px;
+}
 
 #footer {
     position: fixed;
