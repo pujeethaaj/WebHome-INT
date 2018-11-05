@@ -26,7 +26,7 @@ h1 {
     font-weight: 75;
     text-transform: uppercase;
     margin: 0;
-    display: inline-block;
+    display: inline;
 }
 h3 {
     font-size: 1.50em;
