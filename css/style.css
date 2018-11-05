@@ -28,7 +28,7 @@ h1 {
     margin: 0;
 }
 h3 {
-    font-size: 1.5em;
+    font-size: 1.50em;
     font-weight: 200;
     line-height: 1.5;
 }
@@ -50,6 +50,9 @@ p#pleft {
 p#pright {
     max-width:20em;
     float:left;
+}
+p#attribute {
+font-size: 0.50em;
 }
 ul {
     clear:both;
