@@ -28,12 +28,12 @@ h1 {
     margin: 0;
 }
 h3 {
-    font-size: 0.90em;
+    font-size: 1.0em;
     font-weight: 200;
     line-height: 1.5;
 }
 p, li {
-    font-size: 1.25em;
+    font-size: 1.0em;
 }
 a {
     font-weight: 500;
