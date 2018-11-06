@@ -44,9 +44,9 @@ p{
 }
 
 .rmenu {
-  float:right;
+  float:left;
   width:20%;
-  text-align:center;
+  text-align:center;  
 }
 
 h1 {
@@ -56,6 +56,12 @@ h1 {
     margin: 0;
     display: inline;
       color:#fff;
+}
+
+h4 {
+    font-size: 1.20em;
+    font-weight: 200;
+    line-height: 1.5;
 }
 
 a {
@@ -68,7 +74,7 @@ a {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 30%;
     height: auto;
 }
 
@@ -82,7 +88,7 @@ a {
 }
 
 .fa {
-  padding: 20px;
+  padding: 25px;
   font-size: 30px;
   width: 50px;
   text-align: center;
